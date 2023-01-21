@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="one_piece">ONE PIECE</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="welcome_guys">WElCOME GUYS</string>
+    <string name="todo">TODO</string>
+</resources>
